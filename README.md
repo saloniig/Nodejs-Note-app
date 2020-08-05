@@ -7,7 +7,7 @@ A Command line note app based on node.js
 -   Node.js
 -   yargs
 -   chalk
-- 
+
 # Installation
 
 Clone this repository to your local computer and follow the steps below:
